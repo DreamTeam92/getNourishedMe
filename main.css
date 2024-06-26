@@ -33,7 +33,7 @@ body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,
 }
 
 .elem-page-1 {
-  background-image: url(images/mainPage1366x836.jpg);
+  background-image: url(background.png);
   background-color: #f1e7e8!important;
   background-position: center center;
   background-repeat: no-repeat;
