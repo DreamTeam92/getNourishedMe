@@ -3,11 +3,11 @@ body {
 }
 
 body .site-wrapper .sm-clean a:hover,body .site-wrapper .main-menu.sm-clean .sub-menu li a:hover,body .site-wrapper .sm-clean li.active a,body .site-wrapper .sm-clean li.current-page-ancestor > a,body .site-wrapper .sm-clean li.current_page_ancestor > a,body .site-wrapper .sm-clean li.current_page_item > a {
-  color: #d2ae3e!important;
+  color: #277d33!important;
 }
 
 .site-wrapper .header-holder,.site-wrapper .menu-holder,.site-wrapper .sm-clean ul {
-  background-color: #59437a;
+  background-color: #fff;
 }
 
 body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,.site-wrapper .blog-item-holder .cat-links ul a,.site-wrapper .navigation.pagination a:hover,.site-wrapper blockquote:not(.musclerestore-block-pullquote):before,.single .site-wrapper .entry-info .cat-links li:after,.site-wrapper .tags-holder a,.single .site-wrapper .wp-link-pages,.site-wrapper .comment-form-holder a:hover,.site-wrapper .replay-at-author,body .site-wrapper .footer a:hover {
@@ -6675,7 +6675,7 @@ body p,body pre {
 }
 
 .header-logo img {
-  width: 420px;
+  width: 154px;
   height: 75px;
 }
 
@@ -6746,7 +6746,7 @@ body p,body pre {
 
 body .site-wrapper .sm-clean a {
   cursor: pointer;
-  color: #fff;
+  color: #000;
 }
 
 .sm-clean a span.sub-arrow {
