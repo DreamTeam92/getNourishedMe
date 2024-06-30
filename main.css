@@ -1,5 +1,5 @@
 body {
-  background-color: #f1e7e8!important;
+  background-color: #fff!important;
 }
 
 body .site-wrapper .sm-clean a:hover,body .site-wrapper .main-menu.sm-clean .sub-menu li a:hover,body .site-wrapper .sm-clean li.active a,body .site-wrapper .sm-clean li.current-page-ancestor > a,body .site-wrapper .sm-clean li.current_page_ancestor > a,body .site-wrapper .sm-clean li.current_page_item > a {
@@ -6550,7 +6550,7 @@ body {
   font-size: 13px;
   line-height: 27px;
   font-weight: 400;
-  color: #fff;
+  color: #000;
   background-color: #1e1e1e;
   overflow-x: hidden;
 }
@@ -8052,7 +8052,7 @@ ul#footer-sidebar li.widget select {
   }
 
   .header-logo img {
-    max-width: 240px;
+    max-width: 154px;
     width: auto!important;
     height: auto!important;
   }
