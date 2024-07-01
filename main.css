@@ -19472,27 +19472,9 @@ button.swiper-pagination-bullet {
   transform: rotateY(0deg);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .elem-14e .elem-element.elem-element-a200:not(.elem-motion-effects-element-type-background),.elem-14e .elem-element.elem-element-a82>.elem-motion-effects-container>.elem-motion-effects-layer {
-    background-image: linear-gradient(to bottom, #f3d2d8, #f3d7dc, #f2dde0, #f2e2e4, #f1e7e8);
+  background-color: #fff;  
+  /*background-image: linear-gradient(to bottom, #f3d2d8, #f3d7dc, #f2dde0, #f2e2e4, #f1e7e8)*/
 }
 
 .elem-14e .elem-element.elem-element-a200{
@@ -19501,7 +19483,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-14e .elem-element.elem-element-a201 .elem-element-populated a {
-    color: #59437a ;
+    color: #000 ;
 }
 
 .elem-14e .elem-element.elem-element-a201 .elem-element-populated a:hover {
@@ -19561,8 +19543,8 @@ button.swiper-pagination-bullet {
 }
 
 .elem-14e .elem-element.elem-element-a210.elem-view-default .elem-icon,.elem-14e .elem-element.elem-element-a210.elem-view-framed .elem-icon {
-    color: #59437a;
-    border-color: #59437a;
+    color: #000;
+    border-color: #000;
 }
 
 .elem-14e .elem-element.elem-element-a210 .elem-icon {
@@ -19583,8 +19565,8 @@ button.swiper-pagination-bullet {
 }
 
 .elem-14e .elem-element.elem-element-a211.elem-view-default .elem-icon,.elem-14e .elem-element.elem-element-a211.elem-view-framed .elem-icon {
-    color: #59437a;
-    border-color: #59437a;
+    color: #000;
+    border-color: #000;
 }
 
 .elem-14e .elem-element.elem-element-a211 .elem-icon {
@@ -19629,7 +19611,7 @@ button.swiper-pagination-bullet {
 }
 
 .credit {
-  color:#59437a
+  color:#000
 }
 
 .ymp-switcher-holder{
@@ -19691,7 +19673,7 @@ button.swiper-pagination-bullet {
     background-position:center center
 }
 .live-switcher{
-    background-image:url(images/calendarPics.png);
+    background-image:url(images/leaf.png);
     background-repeat:no-repeat;
     width:300px;
     height:180px;
