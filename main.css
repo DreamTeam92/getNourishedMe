@@ -16381,7 +16381,7 @@ button.swiper-pagination-bullet {
 .elem-1 .elem-element.elem-element-a4 .elem-button {
   font-weight: 700;
   letter-spacing: 0;
-  fill: #fff;
+  fill: none;
   color: #000;
   background-color: rgba(204,0,51,0);
   border-style: solid;
@@ -16457,7 +16457,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a11:not(.elem-motion-effects-element-type-background)>.elem-column-wrap,.elem-2 .elem-element.elem-element-a11>.elem-column-wrap>.elem-motion-effects-container>.elem-motion-effects-layer {
-  background-color: #277c33;
+  background-color: #ff2969;
 }
 
 .elem-2 .elem-element.elem-element-a11>.elem-element-populated,.elem-2 .elem-element.elem-element-a11>.elem-element-populated>.elem-background-overlay,.elem-2 .elem-element.elem-element-a11>.elem-background-slideshow {
@@ -16501,7 +16501,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a14 {
-  color: #59437a;
+  color: #000;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 3px;
@@ -16542,7 +16542,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a19 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-2 .elem-element.elem-element-a19>.elem-widget-container {
@@ -16550,7 +16550,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a20 .elem-heading-title {
-  color: #59437a;
+  color: #000;
   font-size: 27px;
   font-weight: 600;
 }
@@ -16570,7 +16570,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a23 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-2 .elem-element.elem-element-a23>.elem-widget-container {
@@ -16578,13 +16578,13 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a24 .elem-heading-title {
-  color: #59437a;
+  color: #000;
   font-size: 27px;
   font-weight: 600;
 }
 
 .elem-2 .elem-element.elem-element-a25 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-2 .elem-element.elem-element-a25>.elem-widget-container {
@@ -16772,7 +16772,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a37:not(.elem-motion-effects-element-type-background)>.elem-column-wrap,.elem-3 .elem-element.elem-element-a37>.elem-column-wrap>.elem-motion-effects-container>.elem-motion-effects-layer {
-  background-color: #f3d2d8;
+  background-color: #fff;
 }
 
 .elem-3 .elem-element.elem-element-a37>.elem-element-populated,.elem-3 .elem-element.elem-element-a37>.elem-element-populated>.elem-background-overlay,.elem-3 .elem-element.elem-element-a37>.elem-background-slideshow {
@@ -16828,11 +16828,11 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a41 .elem-image-box-content .elem-image-box-title {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-3 .elem-element.elem-element-a41 .elem-image-box-content .elem-image-box-description {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-3 .elem-element.elem-element-a42>.elem-element-populated {
@@ -16860,11 +16860,11 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a43 .elem-image-box-content .elem-image-box-title {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-3 .elem-element.elem-element-a43 .elem-image-box-content .elem-image-box-description {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-3 .elem-element.elem-element-a44>.elem-element-populated {
@@ -16892,11 +16892,11 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a45 .elem-image-box-content .elem-image-box-title {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-3 .elem-element.elem-element-a45 .elem-image-box-content .elem-image-box-description {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-3 .elem-element.elem-element-a46>.elem-element-populated {
@@ -16932,11 +16932,11 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a47 .elem-image-box-content .elem-image-box-title {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-3 .elem-element.elem-element-a47 .elem-image-box-content .elem-image-box-description {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-3 .elem-element.elem-element-a50 .elem-spacer-inner {
@@ -17183,7 +17183,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a57:not(.elem-motion-effects-element-type-background)>.elem-column-wrap,.elem-4 .elem-element.elem-element-a57>.elem-column-wrap>.elem-motion-effects-container>.elem-motion-effects-layer {
-  background-color: #fff;
+  background-color: #ff2969;
 }
 
 .elem-4 .elem-element.elem-element-a57>.elem-element-populated,.elem-4 .elem-element.elem-element-a57>.elem-element-populated>.elem-background-overlay,.elem-4 .elem-element.elem-element-a57>.elem-background-slideshow {
@@ -17204,7 +17204,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a58 .elem-heading-title {
-  color: #f3d2d8;
+  color: #000;
   font-size: 90px;
   font-weight: 700;
   line-height: 109px;
@@ -17229,7 +17229,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a60 {
-  color: #59437a;
+  color: #ff2969;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 3px;
@@ -17244,7 +17244,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a61 .elem-heading-title {
-  color: #59437a;
+  color: #ff2969;
   font-size: 52px;
   font-weight: 700;
   letter-spacing: -1px;
@@ -17276,7 +17276,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a68 .elem-heading-title {
-  color: #59437a;
+  color: #ff2969;
   font-size: 36px;
   font-weight: 700;
 }
@@ -17289,7 +17289,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a70 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-4 .elem-element.elem-element-a71:not(.elem-motion-effects-element-type-background),.elem-4 .elem-element.elem-element-a71>.elem-motion-effects-container>.elem-motion-effects-layer {
@@ -17308,56 +17308,56 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a73 .elem-counter-number-wrapper {
-  color: #f3d2d8;
+  color: #000;
   font-size: 100px;
   font-weight: 700;
   letter-spacing: -5px;
 }
 
 .elem-4 .elem-element.elem-element-a73 .elem-counter-title {
-  color: #fff;
+  color: #000;
   font-size: 22px;
   font-weight: 600;
   line-height: 27px;
 }
 
 .elem-4 .elem-element.elem-element-a75 .elem-counter-number-wrapper {
-  color: #f3d2d8;
+  color: #000;
   font-size: 100px;
   font-weight: 700;
   letter-spacing: -5px;
 }
 
 .elem-4 .elem-element.elem-element-a75 .elem-counter-title {
-  color: #fff;
+  color: #000;
   font-size: 22px;
   font-weight: 600;
   line-height: 27px;
 }
 
 .elem-4 .elem-element.elem-element-a77 .elem-counter-number-wrapper {
-  color: #f3d2d8;
+  color: #000;
   font-size: 100px;
   font-weight: 700;
   letter-spacing: -5px;
 }
 
 .elem-4 .elem-element.elem-element-a77 .elem-counter-title {
-  color: #fff;
+  color: #000;
   font-size: 22px;
   font-weight: 600;
   line-height: 27px;
 }
 
 .elem-4 .elem-element.elem-element-a79 .elem-counter-number-wrapper {
-  color: #f3d2d8;
+  color: #000;
   font-size: 100px;
   font-weight: 700;
   letter-spacing: -5px;
 }
 
 .elem-4 .elem-element.elem-element-a79 .elem-counter-title {
-  color: #fff;
+  color: #000;
   font-size: 22px;
   font-weight: 600;
   line-height: 27px;
@@ -17550,7 +17550,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-13 .elem-element.elem-element-a218 {
-  color: #59437a;
+  color: #000;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 3px;
@@ -17567,7 +17567,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-13 .elem-element.elem-element-a219 .elem-heading-title {
-  color: #59437a;
+  color: #000a;
   font-size: 52px;
   font-weight: 700;
   letter-spacing: -1px;
@@ -17625,7 +17625,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-13 .elem-element.elem-element-a223 .elem-heading-title {
-  color: #f3d2d8;
+  color: #000;
   font-size: 90px;
   font-weight: 700;
   line-height: 109px;
@@ -17638,7 +17638,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-13 .elem-element.elem-element-a226 .grid-item a.item-link:after {
-  background-color: #59437a;
+  background-color: #ff2969;
 }
 
 .elem-13 .elem-element.elem-element-a226 a.item-link:before {
@@ -17831,7 +17831,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a86:not(.elem-motion-effects-element-type-background)>.elem-column-wrap,.elem-5 .elem-element.elem-element-a86>.elem-column-wrap>.elem-motion-effects-container>.elem-motion-effects-layer {
-  background-color: #f3d2d8;
+  background-color: #fff;
 }
 
 .elem-5 .elem-element.elem-element-a86>.elem-element-populated,.elem-5 .elem-element.elem-element-a86>.elem-element-populated>.elem-background-overlay,.elem-5 .elem-element.elem-element-a86>.elem-background-slideshow {
@@ -17876,7 +17876,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a89 {
-  color: #59437a;
+  color: #000;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 3px;
@@ -17891,7 +17891,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a90 .elem-heading-title {
-  color: #59437a;
+  color: #000;
   font-size: 52px;
   font-weight: 700;
   letter-spacing: -1px;
@@ -17902,7 +17902,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a93 {
-  color: #59437a;
+  color: #000;
   font-size: 22px;
   font-weight: 600;
   line-height: 30px;
@@ -17913,7 +17913,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a95 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-5 .elem-element.elem-element-a96 {
@@ -17946,14 +17946,14 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a100 .elem-heading-title {
-  color: #59437a;
+  color: #000;
   font-size: 36px;
   font-weight: 700;
 }
 
 .elem-5 .elem-element.elem-element-a100>.elem-widget-container {
   padding: 20px 0;
-  background-color: #f3d2d8;
+  background-color: #fff;
   border-radius: 3px 0 3px 0;
 }
 
@@ -18678,11 +18678,11 @@ button.swiper-pagination-bullet {
 }
 
 .elem-8 .elem-element.elem-element-a151 .text-slide-position {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-8 .elem-element.elem-element-a151 .text-slider-header-quotes:before {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-bc-flex-widget .elem-8 .elem-element.elem-element-201de9b.elem-column .elem-column-wrap {
@@ -18943,7 +18943,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-10 .elem-element.elem-element-a175 {
-  color: #59437a;
+  color: #000;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 3px;
@@ -18960,7 +18960,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-10 .elem-element.elem-element-a176 .elem-heading-title {
-  color: #59437a;
+  color: #000;
   font-size: 52px;
   font-weight: 700;
   letter-spacing: -1px;
@@ -19018,7 +19018,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-10 .elem-element.elem-element-a180 .elem-heading-title {
-  color: #f3d2d8;
+  color: #000;
   font-size: 90px;
   font-weight: 700;
   line-height: 109px;
@@ -19038,65 +19038,65 @@ button.swiper-pagination-bullet {
 }
 
 .elem-10 .elem-element.elem-element-a183 .elem-heading-title {
-  color: #fff;
+  color: #000;
   font-size: 36px;
   font-weight: 700;
 }
 
 .elem-10 .elem-element.elem-element-a184 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-a185 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-a186 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7-form {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7 input {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7 textarea {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7 input::placeholder {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7 textarea::placeholder {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7 input:ms-input-placeholder {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7 textarea:ms-input-placeholder {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7 input::-webkit-input-placeholder {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 .wpcf7 textarea::-webkit-input-placeholder {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 span.wpcf7-not-valid-tip {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 div.wpcf7-response-output {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-10 .elem-element.elem-element-b5aed72 input {
@@ -19489,7 +19489,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-14e .elem-element.elem-element-a201 .elem-element-populated a:hover {
-    color: #ff1e5c;
+    color: #000;
 }
 
 .elem-14e .elem-element.elem-element-a204 {
@@ -19518,7 +19518,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-14e .elem-element.elem-element-a206 {
-    color: #59437a;
+    color: #000;
     font-size: 18px;
     line-height: 25px;
 }
@@ -19621,7 +19621,8 @@ button.swiper-pagination-bullet {
     right:-340px;
     top:0;
     width:340px;
-    background-color:#000;
+    background-color:#fff;
+    border: #000;
     z-index:99998;
     height:100%;
     -webkit-transition:all .5s;
