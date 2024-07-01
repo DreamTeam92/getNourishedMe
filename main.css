@@ -11,19 +11,19 @@ body .site-wrapper .sm-clean a:hover,body .site-wrapper .main-menu.sm-clean .sub
 }
 
 body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,.site-wrapper .blog-item-holder .cat-links ul a,.site-wrapper .navigation.pagination a:hover,.site-wrapper blockquote:not(.musclerestore-block-pullquote):before,.single .site-wrapper .entry-info .cat-links li:after,.site-wrapper .tags-holder a,.single .site-wrapper .wp-link-pages,.site-wrapper .comment-form-holder a:hover,.site-wrapper .replay-at-author,body .site-wrapper .footer a:hover {
-  color: #59437a;
+  color: #000;
 }
 
 .blog .site-wrapper .more-posts,.blog .site-wrapper .no-more-posts,.blog .site-wrapper .more-posts-loading,.site-wrapper .navigation.pagination .current,.site-wrapper .tags-holder a:hover,.search .site-wrapper h1.entry-title,.archive .site-wrapper h1.entry-title {
-  background-color: #59437a;
+  background-color: #000;
 }
 
 .site-wrapper .tags-holder a {
-  border-color: #59437a;
+  border-color: #000;
 }
 
 .site-wrapper .doc-loader {
-  background-color: #f3d2d8;
+  background-color:#fff;
 }
 
 .section.post-36 {
@@ -34,7 +34,7 @@ body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,
 
 .elem-page-1 {
   background-image: url(images/background.png);
-  background-color: #f1e7e8!important;
+  background-color: #fff!important;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -48,35 +48,35 @@ body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,
 }
 
 .elem-page-3 {
-  background-color: #f1e7e8!important;
+  background-color: #fff!important;
   background-position: left top;
   background-repeat: no-repeat;
   background-size: auto;
 }
 
 .elem-page-4 {
-  background-color: #f3d2d8!important;
+  background-color: #fff!important;
   background-position: left top;
   background-repeat: no-repeat;
   background-size: auto;
 }
 
 .elem-page-13 {
-  background-color: #f3d2d8!important;
+  background-color: #fff!important;
   background-position: left top;
   background-repeat: no-repeat;
   background-size: auto;
 }
 
 .elem-page-5 {
-  background-color: #f1e7e8!important;
+  background-color: #fff!important;
   background-position: left top;
   background-repeat: no-repeat;
   background-size: auto;
 }
 
 .elem-page-6 {
-  background-color: #f3d2d8!important;
+  background-color: #fff!important;
   background-position: left top;
   background-repeat: no-repeat;
   background-size: auto;
@@ -96,7 +96,7 @@ body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,
 }
 
 .elem-page-9 {
-  background-color: #f1e7e8!important;
+  background-color: #fff!important;
   background-position: left top;
   background-repeat: no-repeat;
   background-size: auto;
@@ -104,7 +104,7 @@ body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,
 
 .elem-page-10 {
   background-image: url();
-  background-color: #f3d2d8!important;
+  background-color: #fff!important;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: auto;
@@ -16533,7 +16533,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a18 .elem-heading-title {
-  color: #59437a;
+  color: #000;
   font-size: 27px;
   font-weight: 600;
   line-height: 27px;
@@ -16554,7 +16554,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a21 {
-  color: #59437a;
+  color: #000;
 }
 
 .elem-2 .elem-element.elem-element-a21>.elem-widget-container {
@@ -16562,7 +16562,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-2 .elem-element.elem-element-a22 .elem-heading-title {
-  color: #59437a;
+  color: #000;
   font-size: 27px;
   font-weight: 600;
 }
@@ -16733,7 +16733,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a34 .elem-heading-title {
-  color: #59437a;
+  color: #000;
   font-size: 52px;
   font-weight: 700;
   letter-spacing: -1px;
