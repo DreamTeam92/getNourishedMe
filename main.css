@@ -16380,7 +16380,7 @@ button.swiper-pagination-bullet {
   font-weight: 700;
   letter-spacing: 0;
   fill: #fff;
-  color: #fff;
+  color: #000;
   background-color: rgba(204,0,51,0);
   border-style: solid;
   border-width: 3px;
