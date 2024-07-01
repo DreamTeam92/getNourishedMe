@@ -6703,7 +6703,7 @@ body p,body pre {
 #toggle div {
   height: 3px;
   margin-bottom: 6px;
-  background-color: #fff;
+  background-color: #000;
   width: 22px;
 }
 
@@ -16719,7 +16719,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a33 {
-  color: #59437a;
+  color: #000;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 3px;
@@ -16798,6 +16798,7 @@ button.swiper-pagination-bullet {
   font-weight: 700;
   line-height: 109px;
   letter-spacing: -2px;
+  color: #fff;
 }
 
 .elem-3 .elem-element.elem-element-a39 {
@@ -17205,7 +17206,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a58 .elem-heading-title {
-  color: #000;
+  color: #fff;
   font-size: 90px;
   font-weight: 700;
   line-height: 109px;
@@ -17626,7 +17627,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-13 .elem-element.elem-element-a223 .elem-heading-title {
-  color: #000;
+  color: #fff;
   font-size: 90px;
   font-weight: 700;
   line-height: 109px;
@@ -18683,7 +18684,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-8 .elem-element.elem-element-a151 .text-slider-header-quotes:before {
-  color: #000;
+  color: #ff2969;
 }
 
 .elem-bc-flex-widget .elem-8 .elem-element.elem-element-201de9b.elem-column .elem-column-wrap {
@@ -19019,7 +19020,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-10 .elem-element.elem-element-a180 .elem-heading-title {
-  color: #000;
+  color: #fff;
   font-size: 90px;
   font-weight: 700;
   line-height: 109px;
