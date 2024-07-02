@@ -17295,7 +17295,8 @@ button.swiper-pagination-bullet {
 }
 
 .elem-4 .elem-element.elem-element-a71:not(.elem-motion-effects-element-type-background),.elem-4 .elem-element.elem-element-a71>.elem-motion-effects-container>.elem-motion-effects-layer {
-  background: url(images/stats1366x400.jpg) no-repeat 80% center/cover;
+  background: url(images/achievement.jpg) no-repeat 80% center/cover;
+  opacity: 50%;
 }
 
 .elem-4 .elem-element.elem-element-a71 {
