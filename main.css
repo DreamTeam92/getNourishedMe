@@ -19798,3 +19798,7 @@ a:hover {
   color: #000;
   text-align: center
 }
+
+p.text-slide-content {
+  color: #fff;
+}
