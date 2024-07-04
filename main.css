@@ -1587,7 +1587,7 @@ a.button:hover {
 }
 
 .close-icon {
-  background-image: url(images/icons/closeLeftArrow.png);
+  background-image: url(images/closeLeftArrow.png);
   background-repeat: no-repeat;
   width: 70px;
   height: 70px;
