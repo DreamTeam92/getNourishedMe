@@ -49,6 +49,53 @@
            <img src="images/loader.gif" alt="Get Nourished" />
          </div>
          <header class="header-holder">
+            <div class="bar">
+               <p id="switchLanguageBar">
+                  <span language="english">EN</span>
+                  <span language="chinese">中</span>
+                  <span language="japanese">あ</span>
+               </p>
+            </div>
+            <div class="cardBox">
+              <div class="header"></div>
+                <div class="content">
+                  <p id="title"></p>
+                  <p id="description"></p>
+                </div>
+              </div>
+            </div>
+      <script>
+         var defaultLanguage = "english";
+var jsonUrl = "https://jsonbin.org/krmfla/language/";
+var barEl = document.getElementById("switchLanguageBar");
+
+getData(defaultLanguage);
+barEl.addEventListener("click", handleLanguage);
+
+//=== function kits ===
+function getData(language) {
+  var url = jsonUrl + language;
+  $('.content p').fadeOut();
+  $.getJSON(url, function(data) {
+    renderView(data);
+  });
+}
+
+function renderView(data) {
+  var titleEl = document.getElementById("title");
+  var descriptionEl = document.getElementById("description");
+  titleEl.innerText = data.title;
+  descriptionEl.innerText = data.description;
+  $('.content p').fadeIn();
+}
+
+function handleLanguage(event) {
+  var attr = event.target.getAttribute("language");
+  if (attr) {
+    getData(attr)
+  }
+}
+      </script>
             <div class="menu-wrapper center-relative relative">
                <div class="header-logo"><a href="https://getnourished.me/"><img src="images/logo1.png" alt="Get Nourished Logo" /></a></div>
                <div class="toggle-holder">
