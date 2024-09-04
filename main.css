@@ -2717,6 +2717,7 @@ blockquote,q {
 blockquote:before,blockquote:after,q:before,q:after {
   content: '';
   content: none;
+  color: #ff2969;
 }
 
 a {
@@ -19817,7 +19818,7 @@ p.green {
 }
 
 a.read {
-  color: #ff2969;;
+  color: #ff2969;
 }
 
 table,
