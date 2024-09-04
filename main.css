@@ -19879,3 +19879,18 @@ table {
   box-sizing: border-box;
   border-spacing: 2px;
   border-color: none;
+  }
+
+blockquote:not(.functionbetter-block-pullquote)::before {
+  content: '\201C';
+  font-size: 180px;
+  line-height: 100%;
+  font-family: montserrat,sans-serif,Arial;
+  color: #ff2969;
+  text-align: center;
+  display: block;
+  font-weight: 700;
+  position: absolute;
+  left: -104px;
+  top: -9px;
+}
