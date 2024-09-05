@@ -10,7 +10,7 @@ body .site-wrapper .sm-clean a:hover,body .site-wrapper .main-menu.sm-clean .sub
   background-color: #fff;
 }
 
-body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,.site-wrapper .blog-item-holder .cat-links ul a,.site-wrapper .navigation.pagination a:hover,.site-wrapper blockquote:not(.musclerestore-block-pullquote):before,.single .site-wrapper .entry-info .cat-links li:after,.site-wrapper .tags-holder a,.single .site-wrapper .wp-link-pages,.site-wrapper .comment-form-holder a:hover,.site-wrapper .replay-at-author,body .site-wrapper .footer a:hover {
+body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,.site-wrapper .blog-item-holder .cat-links ul a,.site-wrapper .navigation.pagination a:hover,.site-wrapper /*blockquote:not(.musclerestore-block-pullquote):before*/,.single .site-wrapper .entry-info .cat-links li:after,.site-wrapper .tags-holder a,.single .site-wrapper .wp-link-pages,.site-wrapper .comment-form-holder a:hover,.site-wrapper .replay-at-author,body .site-wrapper .footer a:hover {
   color: #000;
 }
 
@@ -19881,16 +19881,3 @@ table {
   border-color: none;
   }
 
-blockquote:not(.functionbetter-block-pullquote)::before {
-  content: '\201C';
-  font-size: 180px;
-  line-height: 100%;
-  font-family: montserrat,sans-serif,Arial;
-  color: #ff2969;
-  text-align: center;
-  display: block;
-  font-weight: 700;
-  position: absolute;
-  left: -104px;
-  top: -9px;
-}
