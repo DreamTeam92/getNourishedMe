@@ -6575,7 +6575,7 @@ blockquote:not(.musclerestore-block-pullquote) {
   line-height: 40px;
   font-style: normal;
   font-weight: 700;
-  max-width: 450px;
+  max-width: 80%;
 }
 
 .single-post blockquote:not(.musclerestore-block-pullquote) {
