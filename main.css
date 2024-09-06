@@ -18009,7 +18009,7 @@ button.swiper-pagination-bullet {
   overflow: hidden;
   border-style: solid;
   border-width: 3px;
-  border-color: #fff;
+  border-color: #ff2969;
   transition: background 0.3s,border 0.3s,border-radius 0.3s,box-shadow .3s;
 }
 
@@ -18030,14 +18030,14 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a106 .elem-heading-title {
-  color: #59437a;
+  color: #fff;
   font-size: 36px;
   font-weight: 700;
 }
 
 .elem-5 .elem-element.elem-element-a106>.elem-widget-container {
   padding: 20px 0;
-  background-color: #f3d2d8;
+  background-color: #fff;
   border-radius: 3px 0 3px 0;
 }
 
@@ -18046,7 +18046,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a107 {
-  color: #59437a;
+  color: #000;
   font-size: 16px;
   font-weight: 500;
   line-height: 36px;
@@ -18059,20 +18059,20 @@ button.swiper-pagination-bullet {
 .elem-5 .elem-element.elem-element-a108 .elem-button {
   font-weight: 700;
   letter-spacing: 0;
-  fill: #59437a;
-  color: #59437a;
-  background-color: rgba(204,0,51,0);
+  fill: #fff;
+  color: #000;
+  background-color: #fff;
   border-style: solid;
   border-width: 3px;
-  border-color: #59437a;
+  border-color: #000;
   border-radius: 10px 10px 10px 10px;
   padding: 26px 40px;
 }
 
 .elem-5 .elem-element.elem-element-a108 .elem-button:hover,.elem-5 .elem-element.elem-element-a108 .elem-button:focus {
-  color: rgba(89,67,122,0.5);
-  background-color: rgba(204,0,51,0);
-  border-color: rgba(89,67,122,0.5);
+  color: #ff2969;
+  background-color: #fff;
+  border-color: #ff2969;
 }
 
 .elem-5 .elem-element.elem-element-a108 .elem-button:hover svg,.elem-5 .elem-element.elem-element-a108 .elem-button:focus svg {
@@ -18108,14 +18108,14 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a112 .elem-heading-title {
-  color: #59437a;
+  color: #fff;
   font-size: 36px;
   font-weight: 700;
 }
 
 .elem-5 .elem-element.elem-element-a112>.elem-widget-container {
   padding: 20px 0;
-  background-color: #f3d2d8;
+  background-color: #ffff;
   border-radius: 3px 0 3px 0;
 }
 
@@ -18124,7 +18124,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-5 .elem-element.elem-element-a113 {
-  color: #59437a;
+  color: #ff2969;
   font-size: 16px;
   font-weight: 500;
   line-height: 36px;
@@ -18137,20 +18137,20 @@ button.swiper-pagination-bullet {
 .elem-5 .elem-element.elem-element-a114 .elem-button {
   font-weight: 700;
   letter-spacing: 0;
-  fill: #59437a;
-  color: #59437a;
-  background-color: rgba(204,0,51,0);
+  fill: #fff;
+  color: #000;
+  background-color: #fff;
   border-style: solid;
   border-width: 3px;
-  border-color: #59437a;
+  border-color: #000;
   border-radius: 10px 10px 10px 10px;
   padding: 26px 40px;
 }
 
 .elem-5 .elem-element.elem-element-a114 .elem-button:hover,.elem-5 .elem-element.elem-element-a114 .elem-button:focus {
-  color: rgba(89,67,122,0.5);
-  background-color: rgba(204,0,51,0);
-  border-color: rgba(89,67,122,0.5);
+  color: #ff2969;
+  background-color: #fff;
+  border-color: #ff2969;
 }
 
 .elem-5 .elem-element.elem-element-a114 .elem-button:hover svg,.elem-5 .elem-element.elem-element-a114 .elem-button:focus svg {
