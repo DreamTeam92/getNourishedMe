@@ -17981,20 +17981,20 @@ button.swiper-pagination-bullet {
 .elem-5 .elem-element.elem-element-a102 .elem-button {
   font-weight: 700;
   letter-spacing: 0;
-  fill: #59437a;
-  color: #59437a;
-  background-color: rgba(204,0,51,0);
+  fill: #fff;
+  color: #000;
+  background-color: #fff /*rgba(204,0,51,0)*/;
   border-style: solid;
   border-width: 3px;
-  border-color: #59437a;
+  border-color: #000;
   border-radius: 10px 10px 10px 10px;
   padding: 26px 40px;
 }
 
 .elem-5 .elem-element.elem-element-a102 .elem-button:hover,.elem-5 .elem-element.elem-element-a102 .elem-button:focus {
-  color: rgba(89,67,122,0.5);
-  background-color: rgba(204,0,51,0);
-  border-color: rgba(89,67,122,0.5);
+  color: #ff2969 /*rgba(89,67,122,0.5)*/;
+  background-color: #fff /*rgba(204,0,51,0)*/;
+  border-color: #ff2969 /*rgba(89,67,122,0.5)*/;
 }
 
 .elem-5 .elem-element.elem-element-a102 .elem-button:hover svg,.elem-5 .elem-element.elem-element-a102 .elem-button:focus svg {
