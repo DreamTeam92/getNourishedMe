@@ -11,7 +11,7 @@ body .site-wrapper .sm-clean a:hover,body .site-wrapper .main-menu.sm-clean .sub
 }
 
 body .site-wrapper a,body .site-wrapper a:hover,.site-wrapper blockquote:before,.site-wrapper .blog-item-holder .cat-links ul a,.site-wrapper .navigation.pagination a:hover,.site-wrapper /*blockquote:not(.musclerestore-block-pullquote):before*/,.single .site-wrapper .entry-info .cat-links li:after,.site-wrapper .tags-holder a,.single .site-wrapper .wp-link-pages,.site-wrapper .comment-form-holder a:hover,.site-wrapper .replay-at-author,body .site-wrapper .footer a:hover {
-  /*color: #000;*/
+  color: #000;
 }
 
 .blog .site-wrapper .more-posts,.blog .site-wrapper .no-more-posts,.blog .site-wrapper .more-posts-loading,.site-wrapper .navigation.pagination .current,.site-wrapper .tags-holder a:hover,.search .site-wrapper h1.entry-title,.archive .site-wrapper h1.entry-title {
@@ -18037,7 +18037,7 @@ button.swiper-pagination-bullet {
 
 .elem-5 .elem-element.elem-element-a106>.elem-widget-container {
   padding: 20px 0;
-  background-color: #fff;
+  background-color: #ff2969;
   border-radius: 3px 0 3px 0;
 }
 
