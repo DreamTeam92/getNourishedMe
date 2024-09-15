@@ -19892,7 +19892,7 @@ table {
   vertical-align: middle;
   cursor: pointer;
   background-color: transparent;
-  border: 1px solid transparent;
+  border: 1px solid black;
   padding: .375rem .75rem;
   font-size: 1rem;
   line-height: 1.5;
@@ -19902,5 +19902,5 @@ table {
 
 .btn:hover {
   color: #ff1e5c;
-  text-decoration: none;
+  border-color: #ff1e5c;
 }
