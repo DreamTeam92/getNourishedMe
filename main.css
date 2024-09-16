@@ -2514,7 +2514,7 @@ li.timeline-event:hover .timeline-event-date {
   }
 
   .grid-item,.grid-sizer {
-    width: 66%!important;
+    width: 100%!important;
   }
   .info-text {
     font-size: 20px;
@@ -19902,4 +19902,12 @@ table {
 .btn:hover {
   color: #ff1e5c;
   border-color: #ff1e5c;
+}
+
+@media screen and (max-width:767px) {
+  .member-holder img.attachment-post-thumbnail {
+  width: 50%;
+  height: 50%;
+  display: block;
+}
 }
