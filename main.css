@@ -2514,9 +2514,8 @@ li.timeline-event:hover .timeline-event-date {
   }
 
   .grid-item,.grid-sizer {
-    width: 33%!important;
+    width: 66%!important;
   }
-
   .info-text {
     font-size: 20px;
     line-height: 30px;
