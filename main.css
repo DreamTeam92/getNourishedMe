@@ -17649,7 +17649,7 @@ button.swiper-pagination-bullet {
 
 .elem-13 .elem-element.elem-element-a226 a.item-link:before {
   border-width: 5px;
-  border-radius: 90% 90% 90% 90%;
+ /*border-radius: 90% 90% 90% 90%;*/
 }
 
 .elem-13 .elem-element.elem-element-a226 .portfolio-title {
