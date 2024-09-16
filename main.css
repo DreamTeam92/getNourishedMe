@@ -11454,7 +11454,7 @@ ul#footer-sidebar li.widget select {
 
 .elem img {
   height: auto;
-  max-width: 100%;
+  max-width: 50%;
   border: none;
   -webkit-border-radius: 0;
   border-radius: 0;
