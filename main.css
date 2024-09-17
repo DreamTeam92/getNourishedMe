@@ -16824,7 +16824,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a41 .elem-image-box-wrapper .elem-image-box-img {
-  width: 30vw;
+  width: 100%;
 }
 
 .elem-3 .elem-element.elem-element-a41 .elem-image-box-img img {
@@ -16856,7 +16856,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a43 .elem-image-box-wrapper .elem-image-box-img {
-  width: 30vw;
+  width: 100%;
 }
 
 .elem-3 .elem-element.elem-element-a43 .elem-image-box-img img {
@@ -16888,7 +16888,7 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a45 .elem-image-box-wrapper .elem-image-box-img {
-  width: 30vw;
+  width: 100%;
 }
 
 .elem-3 .elem-element.elem-element-a45 .elem-image-box-img img {
@@ -16920,7 +16920,8 @@ button.swiper-pagination-bullet {
 }
 
 .elem-3 .elem-element.elem-element-a47 .elem-image-box-wrapper .elem-image-box-img {
-  width: 30vw;
+  width: 100%;
+  max-width: 150px;
 }
 
 .elem-3 .elem-element.elem-element-a47 .elem-image-box-img img {
