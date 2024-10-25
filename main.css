@@ -1249,11 +1249,11 @@ span.musclerestore-extra-width {
 }
 
 .owl-theme .owl-dots .owl-dot:hover span {
-  background-color: #fff;
+  background-color: #ff2969;
 }
 
 .owl-theme .owl-dots .owl-dot.active {
-  border-color: #fff;
+  border-color: #000;
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
