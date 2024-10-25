@@ -36,127 +36,10 @@
   (function(){var w=window;var ic=w.callbell;if(typeof ic==="function"){ic('reattach_activator');ic('update',callbellSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Callbell=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://dash.callbell.eu/include/'+window.callbellSettings.token+'.js';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
 </script>--->
 <!-- End of Async Callbell Code -->
-<script>
-   let slideIndex = 1;
-showSlides(slideIndex);
 
-// Next/previous controls
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
-
-// Thumbnail image controls
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
-
-function showSlides(n) {
-  let i;
-  let slides = document.getElementsByClassName("mySlides");
-  let dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";
-  }
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
-} 
-</script>
-<style>
-  /* Slideshow container */
-.slideshow-container {
-  max-width: 600px;
-  position: relative;
-  margin: auto;
-}
-
-/* Hide the images by default */
-.mySlides {
-  display: none;
-}
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: absolute;
-  top: 50%;
-  width: auto;
-  margin-top: -22px;
-  padding: 16px;
-  color: white;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
-  background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
-}
-
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 15px;
-  margin: 0 2px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
-
-.active, .dot:hover {
-  background-color: #717171;
-}
-
-/* Fading animation */
-.fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes fade {
-  from {opacity: .4}
-  to {opacity: 1}
-} 
-</style>
    </head>
    <body class="post-template-default single single-post postid-80 single-format-standard chrome windows elementor-default">
-      <div class="site-wrapper">
-        
+      <div class="site-wrapper">        
          <header class="header-holder">
             <div class="menu-wrapper center-relative relative">
                <div class="header-logo"> <a href="index.html"> <img src="images/logo.png" alt="Get Nourished" /> </a></div>
@@ -199,99 +82,22 @@ function showSlides(n) {
                      <div class="elem-element elem-element-a19 elem-widget elem-widget-fb-imageslider">
                         <div class="elem-widget-container">
                            <div class="image-slider-wrapper relative">
-                              <div class="owl-carousel owl-theme image-slider slider" data-speed="2000" data-auto="true" data-hover="true"><img width="600" height="950" src="images/smoothie.png" class="text-slide-img" alt="" srcset="images/smoothie.png 600w, images/smoothie.png 300w, images/smoothie.png 768w, images/smoothie.png 1024w" sizes="(max-width: 600px) 100vw, 600px" loading="lazy"/><img width="600" height="650" src="images/vegetarian.png" class="text-slide-img" alt="" srcset="images/vegetarian.png 600w, images/vegetarian.png 300w, images/vegetarian.png 768w, images/vegetarian.png 600w" sizes="(max-width: 1170px) 100vw, 1170px" loading="lazy"/><img width="600" height="950" src="images/glutenFree.png" class="text-slide-img" alt="" srcset="images/glutenFree.png 600w, images/glutenFree.png 300w, images/glutenFree.png 768w, images/glutenFree.png 600w" sizes="(max-width: 1170px) 100vw, 1170px" loading="lazy"/><img width="1170" height="645" src="images/highProtein.png" class="text-slide-img" alt="" srcset="images/highProtein.png 600w, images/highProtein.png 300w, images/highProtein.png 768w, images/highProtein.png 600w" sizes="(max-width: 1170px) 100vw, 1170px" loading="lazy"/></div>
+                              <div class="owl-carousel owl-theme image-slider slider" data-speed="3000" data-auto="true" data-hover="true">
+                                 <img width="600" height="950" src="images/smoothie.png" class="text-slide-img" alt="" srcset="images/smoothie.png 600w, images/smoothie.png 300w, images/smoothie.png 768w, images/smoothie.png 1024w" sizes="(max-width: 600px) 100vw, 1170px" loading="lazy"/>
+                                 <img width="600" height="650" src="images/vegetarian.png" class="text-slide-img" alt="" srcset="images/vegetarian.png 600w, images/vegetarian.png 300w, images/vegetarian.png 768w, images/vegetarian.png 1024w" sizes="(max-width: 600px) 100vw, 1170px" loading="lazy"/>
+                                 <img width="600" height="950" src="images/glutenFree.png" class="text-slide-img" alt="" srcset="images/glutenFree.png 600w, images/glutenFree.png 300w, images/glutenFree.png 768w, images/glutenFree.png 1024w" sizes="(max-width: 600px) 100vw, 1170px" loading="lazy"/>
+                                 <img width="600" height="950" src="images/highProtein.png" class="text-slide-img" alt="" srcset="images/highProtein.png 600w, images/highProtein.png 300w, images/highProtein.png 768w, images/highProtein.png 1024w" sizes="(max-width: 600px) 100vw, 1170px" loading="lazy"/></div>
                               <div class="clear"></div>
                            </div>
                         </div>
                      </div>
 
-
-                     
-                       <div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <img src="images/glutenFree.png" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images/smoothie.png" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="images/vegan.png" style="width:100%">
-  </div>
-
-  <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
-</div>
-<br>
-
-<!-- The dots/circles -->
-<div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span>
-  <span class="dot" onclick="currentSlide(2)"></span>
-  <span class="dot" onclick="currentSlide(3)"></span>
-</div>
                      <div class="entry-content">
                         <blockquote>
                            <p>Transform your gluten-free cooking with the Gluten-Free Recipe eBook. Featuring 45 recipes and a comprehensive 2-week meal plan and shopping list. Enjoy simple, delicious, and worry-free meals every day!</p>
                         </blockquote>
                         <p><img src="images/glutenFree.png" width="600" height="950"></p>
                      </div>
-
-
-                   
-                     <!---<div class="elem-widget-container">
-                              <div class="text-slider-wrapper relative">
-                                 <div class="text-slider-header-quotes"></div>
-                                 <div class="text-slider slider owl-carousel owl-theme" data-speed="2000" data-auto="true" data-hover="true">
-                                    <div class="text-slide">
-                                       <p class="text-slide-content">Thank you Viktor for another amazing, releasing, relaxing and rejuvenating massage!</p>
-                                       <img width="240" height="240" src="#" class="text-slide-img" alt="" srcset="images/glutenFree 240w, images/glutenFree 150w" sizes="(max-width: 240px) 100vw, 240px" />
-                                       <p class="text-slide-name">- Lily -</p>
-                                       <p class="text-slide-position"></p>
-                                    </div>
-                                    <div class="text-slide">
-                                       <p class="text-slide-content">Viktor, thank you so much for the wonderful body massage. I feel relaxed in my body. Also, a burst blood vessel in my right eye has completly cleared!</p>
-                                       <img width="240" height="240" src="images/smoothie.png" class="text-slide-img" alt="" srcset="images/smoothie.png" 240w, images/smoothie.png 150w" sizes="(max-width: 240px) 100vw, 240px" />
-                                       <p class="text-slide-name">- Susan -</p>
-                                       <p class="text-slide-position"></p>
-                                    </div>
-                                    <div class="text-slide">
-                                       <p class="text-slide-content">When you put your foot through the door, the calm is tangible. My body says thank you to Viktor for this morning of re-awakening.</p>
-                                       <img width="240" height="240" src="#" class="text-slide-img" alt="" srcset="#.jpg 240w, https://#150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" />
-                                       <p class="text-slide-name">- Maggie -</p>
-                                       <p class="text-slide-position"></p>
-                                    </div>
-                                    <div class="text-slide">
-                                       <p class="text-slide-content">Was the best body treatment of my entire life. What an experience. I would definitey come back! Thank you Viktor for the experience.</p>
-                                       <img width="240" height="240" src="#" class="text-slide-img" alt="" srcset="#.jpg 240w, https://#150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" />
-                                       <p class="text-slide-name">- Nicola -</p>
-                                       <p class="text-slide-position"></p>
-                                    </div>
-                                    <div class="text-slide">
-                                       <p class="text-slide-content">Thank you Viktor, for the best massage and positivity. Here`s to 2019! Good luck with the puppy.</p>
-                                       <img width="240" height="240" src="#" class="text-slide-img" alt="" srcset="# 240w, https://#150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" />                                       <p class="text-slide-name">- Louise -</p>
-                                       <p class="text-slide-position"></p>
-                                    </div>
-                                    <div class="text-slide">
-                                       <p class="text-slide-content">Thank you Viktor for another wonderful massage releasing deep tension and get to relaxing too, you are a healer!</p>
-                                       <img width="240" height="240" src="#" class="text-slide-img" alt="" srcset="#.jpg 240w, https://#150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" />
-                                       <p class="text-slide-name">- Lily -</p>
-                                       <p class="text-slide-position"></p>
-                                    </div>
-                                    <div class="text-slide">
-                                       <p class="text-slide-content">A wonderful massage Viktor and thanks for advice.</p>
-                                       <img width="240" height="240" src="#" class="text-slide-img" alt="" srcset="#.jpg 240w, https://#150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px" />
-                                       <p class="text-slide-name">- Anne -</p>
-                                       <p class="text-slide-position"></p>
-                                    </div>
-                                 </div>
-                                 <div class="clear"></div>
-                              </div>
-                           </div>--->
                      <div class="single-content-wrapper center-relative">
                         <h5 class="entry-title black">Why Choose the Gluten-Free Recipe Pack?</h5>
                      </div>
