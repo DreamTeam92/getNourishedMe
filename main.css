@@ -3,7 +3,7 @@ body {
 }
 
 body .site-wrapper .sm-clean a:hover,body .site-wrapper .main-menu.sm-clean .sub-menu li a:hover,body .site-wrapper .sm-clean li.active a,body .site-wrapper .sm-clean li.current-page-ancestor > a,body .site-wrapper .sm-clean li.current_page_ancestor > a,body .site-wrapper .sm-clean li.current_page_item > a {
-  color: #277d33!important;
+  color: #38b449!important;
 }
 
 .site-wrapper .header-holder,.site-wrapper .menu-holder,.site-wrapper .sm-clean ul {
