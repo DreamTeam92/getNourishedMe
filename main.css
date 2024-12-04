@@ -1,4 +1,4 @@
-body {
+600px600pxbody {
   background-color: #fff!important;
 }
 
@@ -7888,7 +7888,7 @@ ul#footer-sidebar li.widget select {
 @media screen and (max-width:1600px) {
   .content-1170,.content-960,.content-740 {
     /*max-width: 95%;*/
-    max-width: 600px;
+    max-width: 500px;
   }
 }
 
