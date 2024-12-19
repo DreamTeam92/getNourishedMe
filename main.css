@@ -1,4 +1,4 @@
-{
+body {
   background-color: #fff!important;
 }
 
@@ -1228,9 +1228,9 @@ span.musclerestore-extra-width {
   margin-bottom: 0;
 }
 
-.image-slider img.text-slide-img {
+/*.image-slider img.text-slide-img {
   width: 100%!important;
-}
+}*/
 
 .owl-theme .owl-dots .owl-dot span {
   margin: 0;
@@ -19926,3 +19926,11 @@ table {
   }
 }
 */
+
+
+.image-slider img.text-slide-img {
+  width: 100%;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
