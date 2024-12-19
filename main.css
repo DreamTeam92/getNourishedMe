@@ -1,4 +1,11 @@
-body {
+element {
+}
+.image-slider img.text-slide-img {
+  width: 100%;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}body {
   background-color: #fff!important;
 }
 
@@ -19919,14 +19926,6 @@ table {
   
 }
 
-/*@media screen and (max-width:1600px) {
-  .content-1170 ,.content-960,.content-740 {
-    /*max-width: 95%;*/
-   /* max-width: 500px;*/
-  }
-}
-*/
-
 
 .image-slider img.text-slide-img {
   width: 100%;
@@ -19934,3 +19933,4 @@ table {
   margin-left: auto;
   margin-right: auto;
 }
+
