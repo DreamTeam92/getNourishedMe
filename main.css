@@ -16605,8 +16605,8 @@ button.swiper-pagination-bullet {
 
 @media(min-width:768px) {
   .elem-2 .elem-element.elem-element-a9 {
-    width: 16%;
-    /*width: 90%;*/
+    /*width: 16%;*/
+    width: 90%;
   }
 
   .elem-2 .elem-element.elem-element-a13 {
