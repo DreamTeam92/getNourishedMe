@@ -19944,7 +19944,7 @@ table {
   }
 }
 
-  @media (max-width:400px) {
+  @media (max-width:500px) {
 .elem-widget-wrap {
   position: relative;
   -webkit-flex-wrap: wrap;
