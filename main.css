@@ -19929,13 +19929,6 @@ table {
   margin-right: auto;
 }
 
- {
-  width: 100%;
-  max-width: 400px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 @media (max-width:767px) {
 .elem-widget-wrap {
   position: relative;
