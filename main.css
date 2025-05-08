@@ -1925,6 +1925,10 @@ a.video-popup-holder:hover:after {
   width: 25%;
 }
 
+.grid-item.p_one_third {
+  width: 33%;
+}
+
 .grid-item.p_one_half {
   width: 50%;
 }
